@@ -179,11 +179,11 @@
 
     <!--about-->
     <string name="about_title">About</string>
-    <string name="about_nickname">JiePier</string>
-    <string name="about_github">https://github.com/RuijiePan</string>
-    <string name="about_sign">An Android Developer In GOMO</string>
-    <string name="about_project_introduce">File Manager项目所用的基本上是Rx系列的框架 ( ReactiveX ) :\n\n\tRxJava\n\tRxAndroid\n\tButterknife\n\n以基本的MVP模式为主划分模块，抽出Presenter作为View代理业务层，减轻View层代码的耦合度，然后集成了现在主流的RxJava+RxAndroid+MVP组合框架。\n</string>
-    <string name="about_project_introduce_content">https://github.com/RuijiePan/FileManager\n</string>
+    <string name="about_nickname">Bob</string>
+    <string name="about_github">https://github.com/lhb9420</string>
+    <string name="about_sign">三方生态与能力开放开发部</string>
+    <string name="about_project_introduce">你身边的文件管理专家。\n你是否还在为快速游览文件而烦恼？\n你是否因文件繁多而头晕？\本文件管理器支持智能分类，图片、视频、音频、安装包\n搜索文件方便，一键输入即可找到想要的文件\n手机存储空间一目了然\n</string>
+    <string name="about_project_introduce_content">https://github.com/lhb9420/FileManager-plus\n</string>
 
     <!--辅助功能-->
     <string name="accessibility_stop">FORCE STOP</string>

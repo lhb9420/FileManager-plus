@@ -5,6 +5,52 @@
       <map>
         <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/accessibility_guide_float_window_layout.xml" value="0.22291666666666668" />
         <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/activity_about.xml" value="0.33" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/activity_apk_manager.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/activity_drawer.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/activity_main.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/activity_memory_manager.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/activity_music_manager.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/activity_picture_detail.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/activity_picture_manager.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/activity_setting.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/activity_splash.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/activity_storage.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/activity_wave.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/custom_toolbar.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/dialog_directory_info.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/dialog_dustbin.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/dialog_exists.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/dialog_groupowner.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/dialog_md_colors.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/dialog_permissions.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/dialog_properties.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/dialog_properties_container.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/directory_buttons.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/fragment_app_manager.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/fragment_category.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/fragment_category_item.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/fragment_content.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/fragment_file_manager.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/fragment_memory.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/fragment_picture_detail.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/fragment_storage.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/fragment_storage_head.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/include_toolbar.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/item_app_manager.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/item_md_colors.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/item_memory_list.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/item_music.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/item_picture.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/layout_dustbin.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/switch_layout.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/toolbar_item.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/layout/view_global_menu_header.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/menu/actionmode.xml" value="0.3375" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/menu/category_actionmode.xml" value="0.3375" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/menu/drawer_menu.xml" value="0.3375" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/menu/menu_category.xml" value="0.3375" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/menu/menu_main.xml" value="0.3375" />
+        <entry key="..\:/Users/80350701/AndroidStudioProjects/FileManager-1/app/src/main/res/xml/setting.xml" value="0.29393115942028986" />
       </map>
     </option>
   </component>
