@@ -22,12 +22,12 @@
     <TextView
         android:id="@+id/tv_right"
         style="@style/toolbar_text_style"
-        android:paddingRight="16dp"
-        android:layout_marginRight="16dp"
         android:layout_alignBaseline="@+id/tv_left_right"
         android:layout_alignBottom="@+id/tv_left_right"
+        android:layout_alignParentEnd="true"
         android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true" />
+        android:layout_marginRight="16dp"
+        android:paddingRight="16dp" />
 
     <TextView
         android:id="@+id/tv_left"
